@@ -1,0 +1,2 @@
+validation_type,sample_size,train_pixels,test_pixels,train_blocks,test_blocks,r2,rmse
+spatial_block,100000,84482,15518,39,10,0.32758303502116304,0.10014764534988504
